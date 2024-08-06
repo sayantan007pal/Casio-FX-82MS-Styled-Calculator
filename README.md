@@ -1,6 +1,11 @@
 # Casio-FX-82MS-Styled-Calculator
 A simple, visually appealing web-based calculator styled to resemble the Casio FX-82MS. This project includes HTML, CSS, and JavaScript for the front end, Docker for containerization, and Kubernetes for deployment using Cyclops UI.
 
+# Youtube sample link
+    https://youtu.be/2n9V7qm__bs?si=kvQwOTWMV3CBeZZ0
+# Blogpost link
+    https://dev.to/sayantan007pal/building-a-stylish-calculator-with-cyclops-ui-quira-quest-15-3i84
+
 # Table of Contents
 1. Prerequisites
 2. Project Structure
