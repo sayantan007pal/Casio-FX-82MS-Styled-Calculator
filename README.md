@@ -27,14 +27,14 @@ Docker Hub Account: Create an Account
 
 # Project Structure
 
-casio-fx82ms-calculator/
-│
-├── Dockerfile
-├── deployment.yaml
-├── index.html
-├── script.js
-├── service.yaml
-└── styles.css
+    casio-fx82ms-calculator/
+    │
+    ├── Dockerfile
+    ├── deployment.yaml
+    ├── index.html
+    ├── script.js
+    ├── service.yaml
+    └── styles.css
 
 1. Dockerfile: Defines the Docker image for the application.
 2. deployment.yaml: Kubernetes Deployment configuration.
